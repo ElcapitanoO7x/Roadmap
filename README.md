@@ -17,7 +17,7 @@
 
 ---
 
-**▶ What are our Sub-Circles in CAT Reloaded?**
+**▶ What are our Sub-Circles?**
 
 1. **Penetration testing**
     - **Web Pentesting**
